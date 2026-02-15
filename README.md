@@ -1,4 +1,4 @@
-# Hi there, I'm Nathan Sourdrille! 👋
+# Hi there, I'm Nathan Sourdrille!
 
 ### 4th Year IT Engineering Student @ INSA Rouen
 *Specializing in Data Processing, Artificial Intelligence, and Software Development.*
