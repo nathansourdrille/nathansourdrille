@@ -41,6 +41,8 @@ I am a creative and disciplined engineering student with a strong focus on **AI 
 - **Spanish:** B2 (Intermediate)
 - **Italian:** A1 (Beginner)
 
+---
+
 ### Contact Me
 - **Email:** [nathan.sourdrille@gmail.com](mailto:nathan.sourdrille@gmail.com)
 - **Location:** Rennes / Rouen, France 🇫🇷
