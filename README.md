@@ -8,11 +8,10 @@
 ---
 
 ### About Me
-I am a creative and disciplined engineering student with a strong focus on **AI Agentic Workflows**. Currently seeking a **10-week internship** starting **May 2026** in Data Science, AI, or Software Engineering.
-
-- Currently working on **Multi-Agent Architectures (SaaS Aegis)** with RAG and orchestrators.
--  Advanced skills in **Machine Learning**, **Advanced Algorithms**, and **Data Science**.
--  Team player with a background as a sports captain, focusing on quick communication and adaptability. Football, Basketball, Running, Gym.
+I am a creative and disciplined engineering student specializing in Data Science and AI, currently contributing to the Belle II international collaboration (based at the KEK laboratory in Japan). Based in Marseille, I apply advanced data analysis and machine learning to frontier particle physics research.
+- Current Project: Developing a hierarchical "cascade tagging" framework for $B$-meson reconstruction to optimize the detection of rare decays and missing energy signatures.
+- Technical Expertise: Enhancing inclusive $B$-tagging algorithms, leveraging Data Science and Advanced Machine Learning to improve event reconstruction efficiency within a global scientific network.
+- Soft Skills & Interests: Dynamic team player with a background as a sports captain, focused on quick communication and adaptability. Passionate about Football, Basketball, Running, and Weightlifting.
 
 ---
 
@@ -45,4 +44,4 @@ I am a creative and disciplined engineering student with a strong focus on **AI 
 
 ### Contact Me
 - **Email:** [nathan.sourdrille@gmail.com](mailto:nathan.sourdrille@gmail.com)
-- **Location:** Rennes / Rouen, France 🇫🇷
+- **Location:** Rennes / Rouen / Marseille, France 🇫🇷
